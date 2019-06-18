@@ -1,2 +1,2 @@
-# Quickstare
+# Quickstart
 Getting started with GitHub
